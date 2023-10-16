@@ -5,11 +5,11 @@
 - Clone on your local machine
 
 ```bash
-  git clone https://github.com/your_username/Restaurant_website_HacktoberFest.git
+  git clone https://github.com/your_username/Tourism-website-hacktoberfest.git
 ```
 - Navigate to project directory.
 ```bash
-  cd Restaurant_website_HacktoberFest
+  cd Tourism-website-hacktoberfest
 ```
 - Create a new branch with a sensible name like your-name-add-hover-icons
 ```bash
@@ -33,7 +33,7 @@ git push origin my-new-branch
 # Avoid Conflicts {Syncing your fork}
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
 ```bash 
-git remote add upstream https://github.com/HrutvikKhatkar/Restaurant_website_HacktoberFest.git
+git remote add upstream https://github.com/your_username/Tourism-website-hacktoberfest.git
 ```
 You can verify that the new remote has been added by typing
 ```bash

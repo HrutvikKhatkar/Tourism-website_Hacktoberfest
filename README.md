@@ -3,7 +3,7 @@ I am excited to welcome contributions from anyone interested in participating in
 
 ## Project Description
 
-These is a static webpage created using HTML and CSS.Here we can get explore or an overview of an some famous tourist places.Click on get started(button) to explore places and by clicking above it you can get detailed overview of that particulat place.
+These is a static webpage created using HTML and CSS.Here we can get explore or an overview of an some famous tourist places.Click on get started(button) to explore places and by clicking above it you can get detailed overview of that particular place.
 
 Take a look at the :  https://hrutvik.ccbp.tech/
 

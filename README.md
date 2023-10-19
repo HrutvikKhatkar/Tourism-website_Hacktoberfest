@@ -6,8 +6,7 @@ I am excited to welcome contributions from anyone interested in participating in
 
 These is a static webpage created using HTML and CSS.Here we can get explore or an overview of an some famous tourist places.Click on get started(button) to explore places and by clicking above it you can get detailed overview of that particular place.
 
-Take a look at the :  https://hrutvik.ccbp.tech/
-
+Take a look at the :  https://hrutvikkhatkar.github.io/Tourism-website_Hacktoberfest/
 
 
 ## Tourism Website, a HacktoberFest Project for Beginners 🕶️
